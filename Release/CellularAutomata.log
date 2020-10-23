@@ -1,0 +1,45 @@
+﻿  CellGrid.cpp
+  Main.cpp
+  TileMap.cpp
+C:\Users\Mike\Desktop\Independant Programming\C++\CellularAutomata\TileMap.cpp(23): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Mike\Desktop\Independant Programming\C++\CellularAutomata\TileMap.cpp(24): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Mike\Desktop\Independant Programming\C++\CellularAutomata\TileMap.cpp(25): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Mike\Desktop\Independant Programming\C++\CellularAutomata\TileMap.cpp(26): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  Generating code
+  194 of 220 functions (88.2%) were compiled, the rest were copied from previous compilation.
+    190 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  CellularAutomata.vcxproj -> C:\Users\Mike\Desktop\Independant Programming\C++\CellularAutomata\Release\CellularAutomata.exe
