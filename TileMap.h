@@ -11,3 +11,4 @@ private:
 	sf::VertexArray m_vertices;
 	int W, H, N;
 };
+
